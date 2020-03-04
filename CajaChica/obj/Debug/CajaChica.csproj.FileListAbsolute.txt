@@ -1,0 +1,16 @@
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\bin\Debug\CajaChica.exe.config
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\bin\Debug\CajaChica.exe
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\bin\Debug\CajaChica.pdb
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\bin\Debug\EntityFramework.dll
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\bin\Debug\EntityFramework.xml
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\obj\Debug\CajaChica.csprojAssemblyReference.cache
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\obj\Debug\CajaChica.CajaForm2.resources
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\obj\Debug\CajaChica.Form1.resources
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\obj\Debug\CajaChica.Properties.Resources.resources
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\obj\Debug\CajaChica.csproj.GenerateResource.cache
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\obj\Debug\CajaChica.csproj.CoreCompileInputs.cache
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\obj\Debug\CajaChica.csproj.CopyComplete
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\obj\Debug\CajaChica.exe
+C:\Users\Ogrorilon\source\repos\CajaChica\CajaChica\obj\Debug\CajaChica.pdb
